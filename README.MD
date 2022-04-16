@@ -21,7 +21,8 @@ The NBA has many different types of awards for all kinds of players, the ones th
 
 # Methods  
 
-![RawGraph](C:\Users\aliab\Desktop\2P02\viz.jpg "Candidates 2020-2021 Season")
+ 
+
  
 
 
