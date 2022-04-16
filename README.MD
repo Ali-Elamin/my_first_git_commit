@@ -21,8 +21,12 @@ The NBA has many different types of awards for all kinds of players, the ones th
 
 # Methods  
 
+<img src="C:\Users\aliab\Desktop\2P02\viz.jpg">
 
 
+
+
+ 
 
 
 
